@@ -1,0 +1,8 @@
+{
+  "name": "icao-airport-metar-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node main.js"
+  }
+}
